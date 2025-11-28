@@ -1,0 +1,18 @@
+React is an extrenal library that helps us to create websites easier
+
+use react to create websites=load raect & react dom
+use react to create mobile app =load react & react native
+
+What is babel?
+Ans: JS compiler,translates other language into JS.
+
+What is JSX?
+Ans:same as js ,but we can write html directly into a js code
+
+What is the Problem to use jsx?
+Ans:Web browser doesn't understand jsx, need to translate JSX into javascript (Thats why we use babel.)
+
+How react helps us to create websites easier?
+Ans:1.Creating website with react feels natural
+    2.JSX acts let us find error easier
+    3.We can insert values inside jsx elements. eg.{2+3}
