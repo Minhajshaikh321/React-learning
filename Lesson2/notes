@@ -1,0 +1,20 @@
+In chatbot we will do three things
+1.Get todays date
+2.flip a coin
+3.roll a dice
+
+Component?
+Ans: A Component is just a peice of website
+
+Why we need Component?
+Ans:1.Its better to split up the website into pieces.
+2,So we can work on a small piece of the website at time
+
+Fragment?
+React has another way to group element together as without creating extra div 
+syntax:<></>
+
+What are props in component?
+Props is a properties which is used to reuse the component it work as argument we pass in python when we create a func.
+
+#Best practice is to use use component(App) to create the website
